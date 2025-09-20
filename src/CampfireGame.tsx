@@ -138,7 +138,7 @@ export default function CampfireGame() {
       <div className="w-full max-w-3xl relative z-10">
         <header className="mb-4">
           <h1 className="text-2xl md:text-3xl font-bold">焚き火サバイバル</h1>
-          <p className="text-stone-300 text-sm md:text-base">炎を絶やすな。テキストとバーで遊べる超ミニゲーム。</p>
+          <p className="text-stone-300 text-sm md:text-base">炎を絶やすな。テキストとバーで遊べるミニゲーム。</p>
         </header>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
